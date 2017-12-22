@@ -1,0 +1,43 @@
+/* fichier style de la page index     */
+
+
+ body
+ {
+	     background-color:#BBD3C7;
+ }
+
+  p
+ {
+         color: black;
+ }	
+
+ .paragraphe1
+ {
+	 color: blue;
+	 font-size: 18px;
+ }
+ 
+ .paragraphe2
+ {
+	 text-align: center;
+	 text-align: justify;
+ }
+  
+  .paragraphe3
+  {
+  text-align: center;
+  text-align: justify;
+  }
+  
+  .div1
+  {
+	  border:1px solid black;
+	  margin : 1em;
+  }
+  
+  .paragraphe4
+  {
+	  position: absolute;
+	  right: 14px;
+  }
+  
